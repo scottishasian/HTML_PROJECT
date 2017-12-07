@@ -1,0 +1,29 @@
+#wrapper {
+  width: 80%;
+  margin: 20px auto 20px auto;
+  background-color: red;
+}
+
+header {
+  background-color: blue;
+}
+
+#content-wrapper {
+  background-color: yellow;
+}
+
+aside {
+  background-color: green;
+}
+
+#content-wrapper div {
+  background-color: gold;
+}
+
+main {
+  background-color: grey;
+}
+
+footer {
+  background-color: purple;
+}
